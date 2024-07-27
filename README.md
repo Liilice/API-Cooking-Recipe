@@ -7,7 +7,7 @@ This is an API to manage simple cooking recipes using NestJS and PostgreSQL.
 1. Clone the repository:
 
    ```bash
-   git@github.com:Liilice/API-cooking-recipes.git
+   git@github.com:Liilice/API-Cooking-Recipe.git
    cd api/
    ```
 
