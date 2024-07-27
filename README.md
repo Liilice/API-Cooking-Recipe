@@ -19,20 +19,22 @@ This is an API to manage simple cooking recipes using NestJS and PostgreSQL.
 
 3. Run the application:
    To start the application in development mode:
-   `bash
+   
+   ```bash
     npm run start:dev
-    `
+   ```
    The application should now be accessible at http://localhost:3000.
 
-4. Using Swagger to Test the API
+5. Using Swagger to Test the API
    This API is documented and testable via Swagger. Swagger provides a user-friendly interface to interact with the API.
    To access Swagger, start your application as mentioned above and open your browser at:
-   `bash
+   
+   ```bash
     http://localhost:3000/api
-    `
+   ```
    Here, you will find all available routes, their methods, and you can test requests directly from the Swagger interface.
 
-5. The API provides the following endpoints:
+6. The API provides the following endpoints:
 
 ### Ingredients
 
